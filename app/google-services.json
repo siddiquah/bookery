@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418429875578",
+    "project_id": "bookery-fa0e0",
+    "storage_bucket": "bookery-fa0e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418429875578:android:8cecc4470a2499093292c3",
+        "android_client_info": {
+          "package_name": "tech.hamid.bookery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418429875578-5po58ffkh2ao03bmm4tm6pbd1d4o9f1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1ZPe31gCN6Om-J-U7nWhXTKS3X4kiPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418429875578-5po58ffkh2ao03bmm4tm6pbd1d4o9f1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
