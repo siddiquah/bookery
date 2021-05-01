@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bookery</string>
+    <string name="title_library" translatable="false">Library</string>
+    <string name="title_profile" translatable="false">Profile</string>
+</resources>

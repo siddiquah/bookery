@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79575996412",
+    "project_id": "bookerykotlin",
+    "storage_bucket": "bookerykotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79575996412:android:b62a5c2d574a50b8450479",
+        "android_client_info": {
+          "package_name": "tech.hamid.bookerykotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79575996412-23snrg4dsdq9g77tu1hlk8mis8r6k50f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6dEpqYkax7TfRtS1a9BlRbLT-UsQ0u-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79575996412-23snrg4dsdq9g77tu1hlk8mis8r6k50f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
